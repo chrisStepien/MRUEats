@@ -54,11 +54,18 @@ Start the server
 
 ## Preview
 
-![HomePage](https://github.com/chrisStepien/MRUEats/assets/31741153/6655df66-5b7f-45d8-9f59-d1de89dddbc1)
-![RegisterPage](https://github.com/chrisStepien/MRUEats/assets/31741153/0041b3d1-f511-4e02-bdd7-67b80cd9b52c)
-![LoginPage](https://github.com/chrisStepien/MRUEats/assets/31741153/99dbcb4c-f047-44e3-9753-27e1e7540b56)
-![AccountPage](https://github.com/chrisStepien/MRUEats/assets/31741153/01223f73-2f6c-4855-8a15-d3b3ec99f755)
-![CourierPage](https://github.com/chrisStepien/MRUEats/assets/31741153/90695fd5-1370-4680-966d-541268dbf044)
-![OrderHistory](https://github.com/chrisStepien/MRUEats/assets/31741153/cc29535c-0907-4f4d-b073-2e6a8d47ba40)
+### Home Page
+![HomePage](https://github.com/chrisStepien/MRUEats/assets/31741153/e89cd08a-455a-472f-bb0a-62e6f3b08152)
+### Register Page
+![RegisterPage](https://github.com/chrisStepien/MRUEats/assets/31741153/5e90a974-ab6c-4bff-9645-d5c65fdc78bc)
+### Login Page
+![LoginPage](https://github.com/chrisStepien/MRUEats/assets/31741153/a77d53d8-d54a-4eb5-bbb6-3cb3ba0bcf4e)
+### Account Page
+![AccountPage](https://github.com/chrisStepien/MRUEats/assets/31741153/86c54d95-d084-41df-8efc-a1e15f0e9737)
+### Courier Page
+![CourierPage](https://github.com/chrisStepien/MRUEats/assets/31741153/97930e09-286d-4c91-8f7b-9b23213a7259)
+### Order History Page
+![OrderHistory](https://github.com/chrisStepien/MRUEats/assets/31741153/53de7db6-94b1-4c8f-ab41-7ece4c4835a4)
+
 
 
