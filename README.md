@@ -7,7 +7,7 @@ MRU Eats is an online food delivery service for MRU Students.
 
 ### Home Page
 ![HomePage](https://github.com/chrisStepien/MRUEats/assets/31741153/e89cd08a-455a-472f-bb0a-62e6f3b08152)
-### Register Page
+### Registration Page
 ![RegisterPage](https://github.com/chrisStepien/MRUEats/assets/31741153/5e90a974-ab6c-4bff-9645-d5c65fdc78bc)
 ### Login Page
 ![LoginPage](https://github.com/chrisStepien/MRUEats/assets/31741153/a77d53d8-d54a-4eb5-bbb6-3cb3ba0bcf4e)
